@@ -32,7 +32,7 @@ export default class App extends React.Component {
     }
 
     return (
-      <View style={{ flex: 1, backgroundColor: '#fff', alignItems: 'center', justifyContent: 'center' }}>
+      <View style={{ flex: 1, backgroundColor: '#1a689c', alignItems: 'center', justifyContent: 'center' }}>
         <Text>testsplash</Text>
       </View>
     );
